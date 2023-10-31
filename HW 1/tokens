@@ -1,0 +1,43 @@
+id x
+whitespace  
+= =
+whitespace  
+int 3
+whitespace 
+id y
+whitespace  
+= =
+whitespace  
+int 5
+whitespace 
+id z
+whitespace  
+= =
+whitespace  
+( (
+id x
+whitespace  
++ +
+whitespace  
+id y
+) )
+whitespace  
+/ /
+whitespace  
+int 3
+whitespace 
+loop while
+whitespace  
+( (
+id x
+whitespace  
+> >
+whitespace  
+id k
+) )
+whitespace 
+print print
+whitespace  
+id z
+whitespace 
+eof eof
